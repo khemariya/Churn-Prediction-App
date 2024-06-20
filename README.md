@@ -1,7 +1,7 @@
 # Churn-Prediction-App
 This repository contains a Streamlit-based web application for predicting customer churn in a bank. 
 
-git clone https://github.com/khemariya/calories-burnt-during-motions
+git clone https://github.com/khemariya/Churn-Prediction-App
 
 #note:run the below command after compiling the code in file.
 
